@@ -1,1 +1,3 @@
 medical_receipts/
+venv/
+.DS_Store
